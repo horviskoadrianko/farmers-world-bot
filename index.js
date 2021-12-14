@@ -4,7 +4,7 @@
   // 2 — Chiken
   // 3 — Plant
   // 4 — Cow
-  const availableMaps = [1, 2, 3, 4];
+  const availableMaps = [1, 3];
   // Delay between moving to the next map [min, max] [5sec, 15sec]
   const delayNextMap = [5 * 1000, 15 * 1000];
   // Delay after map selection [min, max] [5sec, 15sec]
